@@ -1,4 +1,6 @@
 # Support-Vector-Machine
+https://www.kaggle.com/uciml/human-activity-recognition-with-smartphones
+
 Data & Problem Description
 You will use a pre-processed dataset produced from real data originally collected by collegues from the University of Genova and the Polytechnic University of Catalonia, named "Activity Recognition Using Smart Phones Dataset". Details regarding the data collection methodology are provided in the following paper:
 
